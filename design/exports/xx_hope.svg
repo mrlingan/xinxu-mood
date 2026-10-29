@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_hope</title>
+    <g id="xx_hope" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M31,55 L31,27 M31,38 C10,39 10,18 12,15 C29,15 35,24 31,38 Z" id="形状" stroke-width="2.6" fill="#C9DFCD" fill-rule="nonzero"></path>
+            <path d="M32,31 C51,34 54,16 52,11 C37,11 29,20 32,31 Z" id="路径" stroke-width="2.6" fill="#C9DFCD"></path>
+            <line x1="23" y1="55" x2="40" y2="55" id="路径" stroke-width="2.6"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+*.iml
+*.jks
+*.keystore
+captures/
+.tools/
+.DS_Store
+delivery/
+docs/test-results/
+design/sketch-create.js
+design/sketch-polish.js

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_mood_3</title>
+    <g id="xx_mood_3" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M13,46 C9,22 29,14 51,14 C54,37 39,52 19,49 L13,46 Z" id="路径" stroke-width="2.6" fill="#C9DFCD"></path>
+            <line x1="18" y1="47" x2="43" y2="23" id="路径" stroke-width="2.6"></line>
+            <path d="M25,31 L25,33 M37,25 L37,27 M28,39 C30.6666667,41 33.3333333,40.6666667 36,38" id="形状" stroke-width="2.6"></path>
+        </g>
+    </g>
+</svg>

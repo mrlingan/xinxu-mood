@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_lonely</title>
+    <g id="xx_lonely" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <circle id="椭圆形" stroke-width="2.6" fill="#F4DB9F" cx="32" cy="31" r="17"></circle>
+            <path d="M7,44 C-1,29 54,7 59,20 C65,35 9,56 7,44" id="路径" stroke-width="2.6"></path>
+            <path d="M24,26 L24,28 M38,26 L38,28" id="形状" stroke-width="2.6"></path>
+            <line x1="27" y1="36" x2="36" y2="36" id="路径" stroke-width="2.6"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_play</title>
+    <g id="xx_play" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <circle id="椭圆形" stroke-width="2.6" fill="#FFFCF5" cx="32" cy="32" r="25"></circle>
+            <polygon id="路径" stroke-width="2.6" fill="#C9DFCD" points="26 20 44 32 26 44"></polygon>
+        </g>
+    </g>
+</svg>

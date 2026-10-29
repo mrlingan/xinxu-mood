@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_tired</title>
+    <g id="xx_tired" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M44,9 C13,11 7,47 30,54 C43,58 54,49 55,38 C35,49 25,21 44,9 Z" id="路径" stroke-width="2.6" fill="#F4DB9F"></path>
+            <path d="M25,35 L30,37 M38,37 L43,35 M30,44 L36,44" id="形状" stroke-width="2.6"></path>
+        </g>
+    </g>
+</svg>

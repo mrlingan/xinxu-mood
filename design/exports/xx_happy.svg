@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_happy</title>
+    <g id="xx_happy" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <circle id="椭圆形" stroke-width="2.6" fill="#F4DB9F" cx="32" cy="32" r="17"></circle>
+            <path d="M32,7 L32,3 M32,61 L32,57 M7,32 L3,32 M61,32 L57,32 M14,14 L11,11 M53,53 L50,50 M14,50 L11,53 M53,11 L50,14" id="形状" stroke-width="2.6"></path>
+            <path d="M25,29 L25,31 M39,29 L39,31" id="形状" stroke-width="2.6"></path>
+            <path d="M27,38 C30.3333333,41.3333333 33.6666667,41.3333333 37,38" id="路径" stroke-width="2.6"></path>
+        </g>
+    </g>
+</svg>

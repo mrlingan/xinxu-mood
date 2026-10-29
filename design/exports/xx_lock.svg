@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_lock</title>
+    <g id="xx_lock" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M20,26 L20,18 C20,1 44,1 44,18 L44,26" id="路径" stroke-width="2.6"></path>
+            <path d="M16,26 L48,26 C51.3333333,26 53,27.6666667 53,31 L53,50 C53,54 51,56 47,56 L17,56 C13,56 11,54 11,50 L11,31 C11,27.6666667 12.6666667,26 16,26 Z" id="路径" stroke-width="2.6" fill="#C9DFCD"></path>
+            <circle id="椭圆形" stroke-width="2.6" fill="#FFFCF5" cx="32" cy="39" r="3"></circle>
+            <line x1="32" y1="42" x2="32" y2="47" id="路径" stroke-width="2.6"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_anxious</title>
+    <g id="xx_anxious" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M17,45 C4,45 5,29 16,28 C14,12 39,10 44,25 C59,22 63,44 48,45 L17,45 Z" id="路径" stroke-width="2.6" fill="#FFFCF5"></path>
+            <path d="M23,30 C25.6666667,26 28.3333333,26 31,30 M35,30 C37.6666667,26 40.3333333,26 43,30 M25,40 C29,37.3333333 33.3333333,37.3333333 38,40 M17,10 L20,5 M48,13 L52,9" id="形状" stroke-width="2.6"></path>
+        </g>
+    </g>
+</svg>

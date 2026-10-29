@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_photo</title>
+    <g id="xx_photo" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M12,10 L52,10 C55.3333333,10 57,11.6666667 57,15 L57,49 C57,52.3333333 55.3333333,54 52,54 L12,54 C8.66666667,54 7,52.3333333 7,49 L7,15 C7,11.6666667 8.66666667,10 12,10 Z" id="路径" stroke-width="2.6" fill="#FFFCF5"></path>
+            <circle id="椭圆形" stroke-width="2.6" fill="#F4DB9F" cx="42" cy="23" r="6"></circle>
+            <polyline id="路径" stroke-width="2.6" fill="#C9DFCD" points="8 45 23 29 38 46 47 36 56 45"></polyline>
+        </g>
+    </g>
+</svg>

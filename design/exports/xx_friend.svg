@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="240px" viewBox="0 0 320 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_friend</title>
+    <g id="xx_friend" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M35,211 C68.3333333,202.333333 105,202.666667 145,212 C185,221.333333 231.666667,221.333333 285,212" id="路径" stroke-width="2.6" fill="#C9DFCD"></path>
+            <path d="M128,69 C98,1 77,27 101,88 M153,68 C159,2 192,14 178,88" id="形状" stroke-width="2.6" fill="#FFFCF5" fill-rule="nonzero"></path>
+            <path d="M76,129 C67,58 200,45 211,123 C237,133 231,193 193,197 L103,197 C54,198 42,151 76,129 Z" id="路径" stroke-width="2.6" fill="#FFFCF5"></path>
+            <path d="M120,118 L120,123 M168,118 L168,123 M134,137 C141.333333,143 148.333333,142.666667 155,136" id="形状" stroke-width="2.6"></path>
+            <circle id="椭圆形" stroke-width="2.6" fill="#F1C5B6" cx="105" cy="135" r="10"></circle>
+            <circle id="椭圆形" stroke-width="2.6" fill="#F1C5B6" cx="185" cy="133" r="10"></circle>
+            <path d="M42,95 C52.6666667,89.6666667 62,89.6666667 70,95 M234,80 C245.333333,74.6666667 254.666667,74.6666667 262,80 M239,88 C245,85.3333333 250.666667,85.3333333 256,88" id="形状" stroke-width="2.6"></path>
+            <path d="M210,181 C228.666667,157.666667 246.666667,155.666667 264,175 C256,199 242,207.333333 222,200 L210,181 Z" id="路径" stroke-width="2.6" fill="#C9DFCD"></path>
+            <line x1="219" y1="198" x2="253" y2="179" id="路径" stroke-width="2.6"></line>
+        </g>
+    </g>
+</svg>

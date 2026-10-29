@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_sort</title>
+    <g id="xx_sort" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M8,20 L32,8 L56,20 L56,48 C56,51.3333333 54,53 50,53 L14,53 C10,53 8,51.3333333 8,48 L8,20 Z" id="路径" stroke-width="2.6" fill="#FFFCF5"></path>
+            <polyline id="路径" stroke-width="2.6" points="9 23 32 40 55 23"></polyline>
+            <path d="M32,34 C15,23 28,16 32,24 C36,14 50,23 32,34 Z" id="路径" stroke-width="2.6" fill="#F1C5B6"></path>
+        </g>
+    </g>
+</svg>

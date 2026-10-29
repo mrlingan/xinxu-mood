@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xx_pause</title>
+    <g id="xx_pause" stroke="none" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <g id="编组" stroke="#52665C">
+            <path d="M13,18 L45,18 L45,41 C45,49 39.6666667,53 29,53 C18.3333333,53 13,49 13,41 L13,18 Z" id="路径" stroke-width="2.6" fill="#F4DB9F"></path>
+            <path d="M45,24 C61,19 62,43 45,41 M7,57 L52,57 M25,12 C21.6666667,9.33333333 21.6666667,6.33333333 25,3 M35,12 C31.6666667,9.33333333 31.6666667,6.33333333 35,3" id="形状" stroke-width="2.6"></path>
+        </g>
+    </g>
+</svg>
